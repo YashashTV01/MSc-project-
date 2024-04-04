@@ -1,12 +1,12 @@
-Step 1 :- for sentimtent and emotional analysis below files 
-Sentimentanalysis.py
-emotionalanalysis.py 
-SentimentLSTMnew.ipynb
-Step 2:- for Streamlit 
-emotion.py
+Step 1 :- for sentimtent and emotional analysis below files <br>
+Sentimentanalysis.py<br>
+emotionalanalysis.py <br>
+SentimentLSTMnew.ipynb<br><br>
+Step 2:- for Streamlit <br>
+emotion.py<br>
 introduction.py
-year.py 
+year.py <br><br>
 
-Dataset link :-
-https://www.kaggle.com/datasets/yashashlv16/philosophydata
-https://www.kaggle.com/datasets/kouroshalizadeh/history-of-philosophy
+Dataset link :-<br>
+https://www.kaggle.com/datasets/yashashlv16/philosophydata<br>
+https://www.kaggle.com/datasets/kouroshalizadeh/history-of-philosophy<br>
